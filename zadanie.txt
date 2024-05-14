@@ -1,0 +1,3 @@
+Celem jest stworzenie pyramidy z użyciem różnych materiałów okrelonych wariantem zadania i umieszczenie jej  na „podstawie”. 
+Użytkownik może obracać podstawę wokół osi Y, przeciągając mysz w poziomie.
+ Scena wykorzystuje globalne światło otoczenia (ambient) oraz źródło światła o kształcie kuli z możliwością animacji obrotu wokół pyramidy.
