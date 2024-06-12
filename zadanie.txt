@@ -1,3 +1,1 @@
-Celem jest stworzenie pyramidy z użyciem różnych materiałów okrelonych wariantem zadania i umieszczenie jej  na „podstawie”. 
-Użytkownik może obracać podstawę wokół osi Y, przeciągając mysz w poziomie.
- Scena wykorzystuje globalne światło otoczenia (ambient) oraz źródło światła o kształcie kuli z możliwością animacji obrotu wokół pyramidy.
+Celem jest konstruowanie złożonego modelu za pomocą three.js - animowanej karuzeli  (podstawa karuzeli jest wielokątem odpowiednio z konfiguracją zadania) i co najmniej jednego innego wybranego modelu (patrz Fig.). Pliki do pobrania znajdują się poniżej. Głównym plikiem jest lab9.html. Podfolder zasobów resources zawiera dwa pliki JavaScript używane przez program oraz model konia, którego używamy w karuzeli. Zawiera również kilka plików graficznych, które można wykorzystać jako tekstury
