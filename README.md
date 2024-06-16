@@ -1,6 +1,6 @@
-### Laboratorium 9 (23.06.2024)
+### Laboratorium  (23.06.2024)
 
-Temat: Konstruowanie obiektów z użyciem Three.js
+Temat: Podstawy WebGL/GLSL
 
 ### Polecenie:
 
